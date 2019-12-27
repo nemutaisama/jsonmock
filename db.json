@@ -1,10 +1,31 @@
 {
-      "collectives": [
+      "collectives": {
+      "names":[
+          {
+            "text": '#',
+            "value": 'id',
+          },
+          {
+            "text": 'Название',
+            "value": 'title',
+          },
+          {
+            "text": 'Google Docs ID',
+            "sortable": false,
+            "value": 'google_doc_id',
+          },
+          {
+            "text": 'Дата обновления',
+            "value": 'updated',
+          }
+      ],
+      "items": [
         {
           "id":1,
           "title":"Декабрь",
           "google_doc_id":"1IvWqQfntzQvlAwWPgQK5LsMLzPx2ItvXfCB7fFKygow",
-          "created":"2019-12-25 16:14:13"
+          "updated":"2019-12-25 16:14:13"
         }
       ]
+      }
     }
