@@ -2,21 +2,21 @@
       "collectives": {
       "names":[
           {
-            "text": '#',
-            "value": 'id',
+            "text": "#",
+            "value": "id",
           },
           {
-            "text": 'Название',
-            "value": 'title',
+            "text": "Название",
+            "value": "title",
           },
           {
-            "text": 'Google Docs ID',
+            "text": "Google Docs ID",
             "sortable": false,
-            "value": 'google_doc_id',
+            "value": "google_doc_id",
           },
           {
-            "text": 'Дата обновления',
-            "value": 'updated',
+            "text": "Дата обновления",
+            "value": "updated",
           }
       ],
       "items": [
