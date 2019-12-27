@@ -3,20 +3,20 @@
       "names":[
           {
             "text": "#",
-            "value": "id",
+            "value": "id"
           },
           {
             "text": "Название",
-            "value": "title",
+            "value": "title"
           },
           {
             "text": "Google Docs ID",
             "sortable": false,
-            "value": "google_doc_id",
+            "value": "google_doc_id"
           },
           {
             "text": "Дата обновления",
-            "value": "updated",
+            "value": "updated"
           }
       ],
       "items": [
